@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="900" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#334155"/>
+    <stop offset="1" stop-color="#22c55e"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="520" rx="28" fill="url(#g)"/>
+<circle cx="740" cy="120" r="130" fill="white" fill-opacity="0.06"/>
+<circle cx="160" cy="420" r="150" fill="white" fill-opacity="0.06"/>
+<rect x="54" y="54" width="150" height="44" rx="22" fill="white" fill-opacity="0.14"/>
+<text x="78" y="83" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">SCOREBOARD</text>
+<text x="64" y="250" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800">FO4</text>
+<text x="66" y="304" fill="white" fill-opacity="0.92" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">OPEN-WORLD RPG</text>
+<text x="66" y="394" fill="white" fill-opacity="0.78" font-family="Arial, Helvetica, sans-serif" font-size="22">Placeholder cover art for visualization only</text>
+<text x="66" y="428" fill="white" fill-opacity="0.78" font-family="Arial, Helvetica, sans-serif" font-size="22">Replace this with your final game image assets later</text>
+</svg>
